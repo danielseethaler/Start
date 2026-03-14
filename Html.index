@@ -6,6 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Willkommen</h1>
+    <header>
+			<button>href="www.thiersee.gv.at"</button>	
+		</header>
 </body>
 </html>
